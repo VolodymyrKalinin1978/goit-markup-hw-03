@@ -340,7 +340,8 @@ p {
   margin-bottom: 0;
 }
 .portfolip-cards-list img {
-  margin-bottom: 0;
+  display: block;
+  
 }
 .portfolip-cards-list h2 {
   padding-left: 16px;
