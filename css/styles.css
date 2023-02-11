@@ -29,7 +29,7 @@ p {
   margin: 0 auto;
   padding: 120px 15px;
 
-   /* outline: 2px solid tomato;  */
+  /* outline: 2px solid tomato;  */
 }
 .header-navig {
   display: flex;
@@ -341,7 +341,6 @@ p {
 }
 .portfolip-cards-list img {
   display: block;
-  
 }
 .portfolip-cards-list h2 {
   padding-left: 16px;
@@ -376,4 +375,18 @@ p {
 }
 .portfolip-btn-list li:last-child {
   margin-right: 0;
+}
+.footer-main-bgc {
+  background-color: var(--primary-navy-blue);
+}
+.section-team-bgc {
+  background-color: var(--cloud);
+}
+.hero-bgc {
+  background-color: var(--primary-navy-blue);
+}
+.header-navig-border {
+  border-bottom-color: var(--secondary-cornflower);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
 }
