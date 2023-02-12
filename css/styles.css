@@ -54,7 +54,7 @@ img {
   margin: 0 auto;
   padding: 120px 15px;
 
-  outline: 2px solid tomato;
+  /* outline: 2px solid tomato; */
 }
 /* none dot in ul */
 .dot-none {
@@ -394,7 +394,7 @@ img {
 .portfolip-btn-list li:last-child {
   margin-right: 0;
 }
-/* .footer-main-bgc { 
+.footer-main-bgc { 
   background-color: var(--primary-navy-blue);
 }
 .section-team-bgc {
@@ -407,4 +407,4 @@ img {
   border-bottom-color: var(--secondary-cornflower);
   border-bottom-width: 1px;
   border-bottom-style: solid;
-}*/
+}
